@@ -1,192 +1,222 @@
 # 👋 Olá, eu sou João Paulo
 
-### Inteligência Artificial • Desenvolvimento • Tecnologia • Acessibilidade
+### Inteligência Artificial • Desenvolvimento Web • Acessibilidade Digital
 
-> **Eu não apenas uso tecnologia. Eu gosto de descobrir como ela funciona.**
+> **Construo tecnologia com curiosidade, lógica e acessibilidade em primeiro lugar.**
 
-Sou apaixonado por tecnologia, curioso por natureza e movido pelo desafio de aprender coisas que ainda não sei fazer.
+Sou estudante de **Inteligência Artificial** e desenvolvedor em formação, com interesse em **desenvolvimento web, automação, acessibilidade digital e produtos apoiados por IA**.
 
-Minha jornada passa por **Inteligência Artificial, desenvolvimento de software, tecnologia e acessibilidade**, sempre com a mesma mentalidade: entender, experimentar, construir e evoluir.
+Tenho deficiência visual e utilizo o **NVDA** diariamente. Isso me fez desenvolver uma perspectiva diferente sobre tecnologia: navego interfaces principalmente por **teclado, sons, estrutura, semântica e lógica**.
 
-Tenho uma deficiência visual e utilizo o **NVDA** como uma das principais ferramentas da minha interação com o mundo digital.
+Essa experiência influencia diretamente a forma como penso sobre software.
 
-Isso mudou completamente a forma como experimento a tecnologia.
-
-Enquanto muitas pessoas percebem uma interface principalmente pela visão, eu navego por meio de **sons, teclado, comandos, estrutura e lógica**.
-
-De certa forma, aprendi a explorar o mundo da tecnologia pela **audição e pelos dedos**.
-
-E essa perspectiva faz parte da maneira como penso sobre tecnologia.
+Para mim, um produto digital não está realmente completo se não puder ser utilizado com autonomia por diferentes pessoas.
 
 ---
 
-## 🧠 Minha forma de aprender
+## 🚀 O que estou construindo
 
-Não gosto de simplesmente decorar comandos ou seguir tutoriais sem entender o que está acontecendo.
+Meu GitHub é um espaço para transformar aprendizado em projetos reais.
 
-Gosto de perguntar:
+Aqui você encontrará estudos, experimentos e aplicações que envolvem:
+
+- 🤖 Inteligência Artificial
+- 💻 Desenvolvimento Web
+- ♿ Acessibilidade Digital
+- 🌐 HTML, CSS e JavaScript
+- 🧪 Testes e qualidade de software
+- 🔀 Git e GitHub
+- ⚙️ Automação
+- 🧠 Lógica e resolução de problemas
+
+Meu objetivo não é apenas aprender tecnologias, mas entender **como elas se conectam para resolver problemas reais**.
+
+---
+
+## 🌟 Projeto em destaque
+
+### Saúde Qualimax
+
+Plataforma web acessível e white-label para e-commerce, desenvolvida com foco em qualidade, experiência do usuário e tecnologias assistivas.
+
+O projeto inclui:
+
+- 81 páginas HTML
+- 60 produtos estruturados
+- PWA e suporte offline
+- Arquitetura white-label
+- Testes E2E com Playwright
+- Auditorias de acessibilidade com Axe
+- GitHub Actions e CI/CD
+- Compatibilidade com navegação por teclado
+- Foco em NVDA e critérios WCAG
+- Deploy automatizado com GitHub Pages
+
+🔗 [Ver repositório](https://github.com/jplima-dev-ai/saude-quali-max)
+
+🌐 [Abrir aplicação](https://jplima-dev-ai.github.io/saude-quali-max/)
+
+---
+
+## 🧠 Como eu aprendo
+
+Não gosto de simplesmente decorar comandos.
+
+Gosto de entender:
 
 **Por que isso funciona?**
 
-**O que existe por trás dessa interface?**
+**O que acontece por trás da interface?**
 
-**O que acontece quando algo dá errado?**
+**Por que algo que deveria funcionar quebrou?**
 
-**Como eu poderia construir isso de outra maneira?**
+**Como eu poderia construir uma solução melhor?**
 
-É por isso que gosto de transformar aprendizado em experimentação.
+Meu processo normalmente passa por:
 
-Aprender → testar → errar → investigar → corrigir → compreender → construir.
+**aprender → testar → errar → investigar → corrigir → compreender → construir**
 
-Para mim, cada erro é uma oportunidade de descobrir alguma coisa que eu ainda não entendia.
+Erros fazem parte do processo.
+
+Em muitos dos meus projetos, são justamente eles que me obrigam a compreender melhor a tecnologia que estou utilizando.
 
 ---
 
 ## 🤖 Inteligência Artificial
 
-Atualmente, minha formação acadêmica está direcionada para **Inteligência Artificial**, área que considero uma das fronteiras mais fascinantes da tecnologia.
+Minha formação acadêmica está direcionada para **Inteligência Artificial**.
 
-Tenho interesse em compreender não apenas como utilizar ferramentas de IA, mas também os conceitos, possibilidades e desafios que existem por trás delas.
+Tenho interesse especialmente na relação entre IA e:
 
-Quero explorar como a inteligência artificial pode se conectar com desenvolvimento de software, automação, acessibilidade, produtividade e criação de novas soluções.
+- desenvolvimento de software;
+- automação;
+- produtividade;
+- acessibilidade;
+- agentes inteligentes;
+- criação de ferramentas;
+- novas formas de interação entre pessoas e tecnologia.
+
+Meu objetivo não é apenas aprender a utilizar ferramentas de IA, mas compreender como integrá-las de maneira útil em produtos e sistemas.
 
 ---
 
 ## 💻 Desenvolvimento
 
-Também estou construindo minha formação como **desenvolvedor Full Stack**, ampliando progressivamente minha compreensão sobre desenvolvimento de aplicações.
+Também estou construindo minha formação em **Desenvolvimento Full Stack**.
 
-Meu objetivo é entender o desenvolvimento como um sistema completo:
+Gosto de pensar o desenvolvimento como um sistema completo:
 
 **interface → lógica → dados → integração → experiência → acessibilidade**
 
-Mais do que acumular nomes de tecnologias, quero desenvolver uma habilidade que considero fundamental na área:
+Frameworks e ferramentas mudam rapidamente.
 
-> **aprender novas tecnologias quando o problema exigir.**
+Por isso, uma das habilidades que mais valorizo é a capacidade de:
 
-A tecnologia muda.
+> **aprender uma nova tecnologia quando o problema exigir.**
 
-As ferramentas mudam.
-
-Os frameworks mudam.
-
-Os paradigmas evoluem.
-
-Mas a capacidade de **aprender, raciocinar e resolver problemas** continua sendo uma das ferramentas mais importantes de um desenvolvedor.
+Mais importante do que memorizar uma stack inteira é desenvolver raciocínio, capacidade de investigação e autonomia para resolver problemas.
 
 ---
 
-## ♿ Tecnologia e acessibilidade
+## ♿ Acessibilidade Digital
 
-Minha experiência pessoal também despertou um interesse especial por **acessibilidade digital**.
+A acessibilidade é uma das áreas que mais influencia minha maneira de desenvolver.
 
-Utilizar tecnologia diariamente através de um leitor de tela me permite perceber detalhes que podem passar despercebidos para quem utiliza interfaces predominantemente de forma visual.
+Como usuário de leitor de tela, percebo detalhes de uma interface que muitas vezes não são percebidos em uma experiência predominantemente visual.
 
-Isso influencia minha maneira de pensar sobre produtos digitais.
+Estrutura de títulos, nomes acessíveis, ordem de foco, navegação por teclado, feedback de estado e semântica fazem uma enorme diferença.
 
-Uma tecnologia realmente interessante não deveria apenas funcionar.
+Por isso, procuro pensar em software que seja:
 
-Ela deveria buscar ser:
+- útil;
+- compreensível;
+- acessível;
+- testável;
+- bem estruturado;
+- humano.
 
-**útil.**
+Uma ideia que resume bastante essa visão:
 
-**compreensível.**
-
-**acessível.**
-
-**bem projetada.**
-
-**humana.**
-
-Quero continuar explorando como desenvolvimento e Inteligência Artificial podem contribuir para experiências digitais mais acessíveis.
+> **Se uma aplicação é inacessível para parte de seus usuários, ainda existe trabalho de engenharia a ser feito.**
 
 ---
 
-## 🎯 O que estou construindo
+## 🛠️ Áreas que estou desenvolvendo
 
-Este GitHub representa uma parte da minha evolução.
+### Inteligência Artificial
+- IA aplicada
+- automação
+- agentes
+- integração de ferramentas
 
-Aqui registro conhecimentos, experimentos, estudos e projetos desenvolvidos ao longo da minha trajetória.
+### Desenvolvimento
+- HTML
+- CSS
+- JavaScript
+- desenvolvimento Full Stack
+- arquitetura de aplicações
 
-Não quero que este perfil seja apenas uma coleção de repositórios.
+### Qualidade
+- Playwright
+- testes E2E
+- Axe
+- GitHub Actions
+- CI/CD
 
-Quero que ele conte uma história:
+### Acessibilidade
+- NVDA
+- leitores de tela
+- navegação por teclado
+- WCAG
+- HTML semântico
 
-**a história de alguém que decidiu aprender tecnologia profundamente e transformar curiosidade em capacidade.**
-
-Alguns projetos serão simples.
-
-Outros serão desafiadores.
-
-Alguns provavelmente darão errado.
-
-E isso faz parte.
-
-O importante é continuar construindo.
-
----
-
-## 🌱 Aprendizado contínuo
-
-Minha formação acontece em diferentes frentes.
-
-🎓 **Inteligência Artificial**
-💻 **Desenvolvimento Full Stack**
-🌐 **Desenvolvimento Web**
-🔀 **Git e GitHub**
-🤖 **Inteligência Artificial aplicada**
-♿ **Acessibilidade digital**
-🧠 **Lógica e resolução de problemas**
-
-E novas áreas naturalmente serão incorporadas conforme minha jornada avançar.
+### Engenharia
+- Git
+- GitHub
+- debugging
+- documentação
+- resolução de problemas
 
 ---
 
-## 🔭 Olhando para o futuro
+## 🎓 Formação
 
-Não sei exatamente quais tecnologias estarão no meu conjunto de ferramentas daqui a alguns anos.
+**Tecnólogo em Inteligência Artificial — Gran Faculdade**
 
-E isso é justamente uma das coisas que tornam essa área tão interessante.
+**Formação em Desenvolvimento Full Stack — DevClub**
 
-O que eu sei é que quero continuar sendo:
+---
 
-**curioso o suficiente para perguntar,**
+## 🎯 Objetivo profissional
 
-**persistente o suficiente para tentar,**
+Quero atuar em projetos onde eu possa combinar:
 
-**humilde o suficiente para aprender,**
+**Inteligência Artificial + desenvolvimento + acessibilidade + resolução de problemas.**
 
-e **ousado o suficiente para construir.**
+Tenho interesse especial em equipes que valorizem qualidade de software, aprendizado contínuo, inclusão e construção de produtos que realmente possam ser utilizados pelas pessoas.
 
-Meu objetivo não é prever exatamente onde a tecnologia estará.
+---
 
-É estar preparado para **aprender quando ela chegar lá**.
+## 🤝 Vamos conversar
+
+Gosto de trocar conhecimento com pessoas que trabalham ou estudam:
+
+- Inteligência Artificial;
+- desenvolvimento de software;
+- acessibilidade;
+- automação;
+- tecnologia assistiva;
+- produtos digitais.
+
+Se esses temas também fazem parte do seu trabalho ou dos seus interesses, fique à vontade para entrar em contato.
 
 ---
 
 ## ⚡ Uma ideia que representa minha jornada
 
-> **A tecnologia pode mudar a forma como enxergamos o mundo.
+> **A tecnologia pode mudar a forma como enxergamos o mundo.  
 > No meu caso, ela também me ensinou que não precisamos enxergá-lo da mesma maneira para construir algo nele.**
 
 ---
 
-## 📚 Formação
-
-🎓 **Tecnólogo em Inteligência Artificial — Gran Faculdade**
-
-💻 **Formação em Desenvolvimento Full Stack — DevClub**
-
----
-
-## 🤝 Conecte-se comigo
-
-Estou sempre interessado em aprender, trocar conhecimento, conhecer pessoas da área de tecnologia e descobrir novas possibilidades de colaboração.
-
-Se você gosta de **Inteligência Artificial, desenvolvimento, acessibilidade, tecnologia ou simplesmente de construir coisas novas**, talvez tenhamos assuntos interessantes para conversar.
-
----
-
 ### 🚀 Sempre aprendendo. Sempre experimentando. Sempre construindo.
-
-**Bem-vindo ao meu laboratório de tecnologia.**
