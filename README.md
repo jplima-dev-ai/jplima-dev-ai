@@ -1,35 +1,36 @@
 # 👋 Olá, eu sou João Paulo
 
-### Inteligência Artificial • Desenvolvimento Web • Acessibilidade Digital
+### Inteligência Artificial | Desenvolvimento Web | Acessibilidade Digital
 
-> **Construo tecnologia com curiosidade, lógica e acessibilidade em primeiro lugar.**
+> **Transformo conhecimento em soluções tecnológicas, conectando inteligência artificial, desenvolvimento de software e acessibilidade digital.**
 
-Sou **especialista em Inteligência Artificial** e desenvolvedor em formação, com interesse em **desenvolvimento web, automação, acessibilidade digital e produtos apoiados por IA**.
+Sou **especialista em Inteligência Artificial** e desenvolvedor em formação, com foco em desenvolvimento web, automação, qualidade de software e construção de aplicações acessíveis.
 
-Tenho deficiência visual e utilizo o **NVDA** diariamente. Isso me fez desenvolver uma perspectiva diferente sobre tecnologia: navego interfaces principalmente por **teclado, sons, estrutura, semântica e lógica**.
+Tenho deficiência visual e utilizo o leitor de tela **NVDA** diariamente. Essa experiência me proporcionou uma perspectiva particular sobre tecnologia: compreender interfaces por meio de sua estrutura, semântica, navegação por teclado e respostas sonoras.
 
-Essa experiência influencia diretamente a forma como penso sobre software.
+Essa vivência também influencia minha maneira de desenvolver software.
 
-Para mim, um produto digital não está realmente completo se não puder ser utilizado com autonomia por diferentes pessoas.
+Acredito que uma aplicação de qualidade deve ir além de funcionar corretamente: precisa oferecer autonomia, eficiência e uma boa experiência para diferentes pessoas.
+
+Meu propósito é unir **conhecimento técnico, pensamento crítico, aprendizado contínuo e inclusão** para construir soluções que resolvam problemas reais.
 
 ---
 
-## 🚀 O que estou construindo
+## 🚀 O que você encontrará neste GitHub
 
-Meu GitHub é um espaço para transformar aprendizado em projetos reais.
+Este perfil reúne minha evolução profissional por meio de projetos, experimentos e aplicações práticas.
 
-Aqui você encontrará estudos, experimentos e aplicações que envolvem:
+Minhas principais áreas de atuação e desenvolvimento incluem:
 
-- 🤖 Inteligência Artificial
-- 💻 Desenvolvimento Web
-- ♿ Acessibilidade Digital
-- 🌐 HTML, CSS e JavaScript
-- 🧪 Testes e qualidade de software
-- 🔀 Git e GitHub
-- ⚙️ Automação
-- 🧠 Lógica e resolução de problemas
+- Inteligência Artificial e suas aplicações.
+- Desenvolvimento Web e Full Stack.
+- Automação de processos.
+- Acessibilidade digital e tecnologias assistivas.
+- Testes automatizados e qualidade de software.
+- Arquitetura e integração de aplicações.
+- Git, GitHub e práticas de desenvolvimento colaborativo.
 
-Meu objetivo não é apenas aprender tecnologias, mas entender **como elas se conectam para resolver problemas reais**.
+Procuro compreender não apenas como uma tecnologia funciona, mas **por que utilizá-la, quais problemas resolve e como pode gerar valor para seus usuários**.
 
 ---
 
@@ -37,197 +38,204 @@ Meu objetivo não é apenas aprender tecnologias, mas entender **como elas se co
 
 ### Saúde Qualimax
 
-Plataforma web acessível e white-label para e-commerce, desenvolvida com foco em qualidade, experiência do usuário e tecnologias assistivas.
+**Plataforma de e-commerce acessível com arquitetura white-label.**
 
-O projeto inclui:
+Projeto desenvolvido com foco em engenharia de software, organização arquitetural, experiência do usuário, qualidade e compatibilidade com tecnologias assistivas.
 
-- 81 páginas HTML
-- 60 produtos estruturados
-- PWA e suporte offline
-- Arquitetura white-label
-- Testes E2E com Playwright
-- Auditorias de acessibilidade com Axe
-- GitHub Actions e CI/CD
-- Compatibilidade com navegação por teclado
-- Foco em NVDA e critérios WCAG
-- Deploy automatizado com GitHub Pages
+**Principais características técnicas:**
 
-🔗 [Ver repositório](https://github.com/jplima-dev-ai/saude-quali-max)
+- 81 páginas HTML.
+- 60 produtos estruturados.
+- Arquitetura white-label.
+- Progressive Web App (PWA) com suporte offline.
+- Testes de ponta a ponta (E2E) com Playwright.
+- Auditorias automatizadas de acessibilidade com Axe.
+- Integração contínua com GitHub Actions.
+- Pipeline de CI/CD.
+- Navegação por teclado.
+- Compatibilidade com NVDA e atenção aos critérios WCAG.
+- Publicação automatizada com GitHub Pages.
 
-🌐 [Abrir aplicação](https://jplima-dev-ai.github.io/saude-quali-max/)
+O projeto representa minha proposta de desenvolvimento: **combinar funcionalidade, qualidade de código, acessibilidade e experiência do usuário em uma solução real**.
 
----
+**[Explorar repositório](https://github.com/jplima-dev-ai/saude-quali-max)**
 
-## 🧠 Como eu aprendo
-
-Não gosto de simplesmente decorar comandos.
-
-Gosto de entender:
-
-**Por que isso funciona?**
-
-**O que acontece por trás da interface?**
-
-**Por que algo que deveria funcionar quebrou?**
-
-**Como eu poderia construir uma solução melhor?**
-
-Meu processo normalmente passa por:
-
-**aprender → testar → errar → investigar → corrigir → compreender → construir**
-
-Erros fazem parte do processo.
-
-Em muitos dos meus projetos, são justamente eles que me obrigam a compreender melhor a tecnologia que estou utilizando.
+**[Acessar aplicação](https://jplima-dev-ai.github.io/saude-quali-max/)**
 
 ---
 
-## 🎓 DIO Campus Expert 17 | Desenvolvimento profissional e comunidade
+## 🎓 DIO Campus Expert 17 | Mentorias, comunidade e desenvolvimento profissional
 
-Participei da **17ª turma do DIO Campus Expert**, uma experiência que ampliou minha visão sobre carreira em tecnologia e reforçou a importância de desenvolver **habilidades comportamentais (soft skills)** junto às competências técnicas.
+Participei da **17ª turma do DIO Campus Expert**, uma experiência importante para ampliar minha visão sobre carreira, posicionamento profissional e desenvolvimento de competências comportamentais no setor de tecnologia.
 
-Nas mentorias com **profissionais do Santander, especialistas com experiência internacional e outros nomes do mercado de tecnologia**, conheci trajetórias reais, desafios, erros e aprendizados que ajudam a compreender melhor o ambiente corporativo.
+Durante a jornada, tive acesso a mentorias com **profissionais do Santander, mentores com experiência internacional e especialistas com trajetórias relevantes no mercado de tecnologia**.
 
-Entre os aprendizados que levo para minha jornada estão:
+Mais do que conhecer histórias de sucesso, tive a oportunidade de aprender com experiências reais, desafios, decisões, erros e acertos compartilhados por profissionais que vivenciam o ambiente corporativo.
 
-- **Portfólio e marca profissional:** apresentar projetos com clareza, contexto e propósito, mostrando não só o resultado, mas também o processo de evolução.
-- **Comunicação e networking:** trocar experiências, ouvir diferentes perspectivas e construir conexões profissionais genuínas.
-- **Colaboração e inteligência interpessoal:** reconhecer o valor de aprender com outras pessoas, compartilhar conhecimento e acolher feedbacks.
-- **Protagonismo e aprendizado contínuo:** assumir responsabilidade pelo próprio desenvolvimento e transformar erros em oportunidades de melhoria.
+Entre os principais aprendizados, destaco:
 
-A convivência com uma **comunidade de estudantes que também estão construindo seu espaço no mercado tech** foi uma das partes mais valiosas dessa jornada.
+- **Marca profissional e portfólio:** comunicar competências com clareza, organizar projetos e demonstrar resultados de forma estratégica.
+- **Comunicação profissional:** desenvolver a capacidade de compartilhar ideias, ouvir diferentes perspectivas e estabelecer conexões significativas.
+- **Networking e colaboração:** compreender a importância das relações profissionais, da troca de conhecimento e do trabalho em comunidade.
+- **Inteligência emocional e adaptabilidade:** refletir sobre atitudes, desafios, feedbacks e comportamentos importantes no ambiente corporativo.
+- **Protagonismo e evolução contínua:** reconhecer que construir uma carreira exige iniciativa, consistência e disposição para aprender.
 
-Essa experiência fortaleceu uma convicção: **conhecer tecnologias é essencial, mas saber comunicar, colaborar, aprender e gerar valor para pessoas é o que transforma conhecimento técnico em impacto profissional.**
+Outro aspecto marcante foi a interação com uma comunidade de estudantes e profissionais em formação, que compartilham desafios, conhecimentos e o objetivo de conquistar seu espaço na tecnologia.
 
----
+Essa convivência ampliou minha compreensão sobre a importância de aprender coletivamente e construir relações profissionais fundamentadas no respeito, na colaboração e na troca de experiências.
 
-## 🤖 Inteligência Artificial
+**Minha principal reflexão sobre essa jornada:**
 
-Minha formação acadêmica está direcionada para **Inteligência Artificial**.
+> Competências técnicas abrem possibilidades. Comunicação, colaboração, inteligência emocional e capacidade de aprender continuamente ajudam a transformar essas possibilidades em uma carreira sólida.
 
-Tenho interesse especialmente na relação entre IA e:
-
-- desenvolvimento de software;
-- automação;
-- produtividade;
-- acessibilidade;
-- agentes inteligentes;
-- criação de ferramentas;
-- novas formas de interação entre pessoas e tecnologia.
-
-Meu objetivo não é apenas aprender a utilizar ferramentas de IA, mas compreender como integrá-las de maneira útil em produtos e sistemas.
+Levo essa experiência como parte do meu desenvolvimento profissional e da preparação para contribuir com equipes e projetos no mercado de tecnologia.
 
 ---
 
-## 💻 Desenvolvimento
+## 🤖 Inteligência Artificial e Desenvolvimento de Software
 
-Também estou construindo minha formação em **Desenvolvimento Full Stack**.
+Minha trajetória é direcionada à utilização da inteligência artificial como ferramenta para construir soluções úteis, ampliar capacidades humanas e melhorar processos.
 
-Gosto de pensar o desenvolvimento como um sistema completo:
+Tenho interesse em aplicações envolvendo:
 
-**interface → lógica → dados → integração → experiência → acessibilidade**
+- IA aplicada ao desenvolvimento de software.
+- Agentes inteligentes.
+- Automação de tarefas e processos.
+- Integração de ferramentas e sistemas.
+- Produtividade e apoio à tomada de decisão.
+- Acessibilidade e tecnologia assistiva.
+- Desenvolvimento de produtos digitais apoiados por IA.
 
-Frameworks e ferramentas mudam rapidamente.
+Na área de desenvolvimento, procuro compreender as relações entre interface, lógica de negócio, processamento de dados, integrações, testes e experiência do usuário.
 
-Por isso, uma das habilidades que mais valorizo é a capacidade de:
+Valorizo fundamentos sólidos, investigação de problemas e capacidade de adaptação.
 
-> **aprender uma nova tecnologia quando o problema exigir.**
-
-Mais importante do que memorizar uma stack inteira é desenvolver raciocínio, capacidade de investigação e autonomia para resolver problemas.
-
----
-
-## ♿ Acessibilidade Digital
-
-A acessibilidade é uma das áreas que mais influencia minha maneira de desenvolver.
-
-Como usuário de leitor de tela, percebo detalhes de uma interface que muitas vezes não são percebidos em uma experiência predominantemente visual.
-
-Estrutura de títulos, nomes acessíveis, ordem de foco, navegação por teclado, feedback de estado e semântica fazem uma enorme diferença.
-
-Por isso, procuro pensar em software que seja:
-
-- útil;
-- compreensível;
-- acessível;
-- testável;
-- bem estruturado;
-- humano.
-
-Uma ideia que resume bastante essa visão:
-
-> **Se uma aplicação é inacessível para parte de seus usuários, ainda existe trabalho de engenharia a ser feito.**
+**Mais importante do que dominar uma ferramenta específica é compreender os princípios que permitem aprender, avaliar e utilizar novas tecnologias de maneira eficiente.**
 
 ---
 
-## 🛠️ Áreas que estou desenvolvendo
+## ♿ Acessibilidade Digital | Tecnologia com autonomia
 
-### Inteligência Artificial
-- IA aplicada
-- automação
-- agentes
-- integração de ferramentas
+A acessibilidade não é apenas uma área de interesse profissional. Ela faz parte da minha experiência cotidiana com tecnologia.
 
-### Desenvolvimento
-- HTML
-- CSS
-- JavaScript
-- desenvolvimento Full Stack
-- arquitetura de aplicações
+Como usuário de leitor de tela, compreendo na prática como decisões aparentemente pequenas de desenvolvimento podem determinar se uma aplicação será realmente utilizável.
 
-### Qualidade
-- Playwright
-- testes E2E
-- Axe
-- GitHub Actions
-- CI/CD
+Elementos como HTML semântico, hierarquia de títulos, nomes acessíveis, gerenciamento de foco, navegação por teclado e feedback de estado fazem diferença direta na experiência de uso.
+
+Por isso, procuro incorporar a acessibilidade desde as etapas iniciais de desenvolvimento, considerando:
+
+- Estrutura semântica e organização do conteúdo.
+- Compatibilidade com leitores de tela.
+- Navegação integral por teclado.
+- Identificação clara de componentes e controles.
+- Feedback acessível de ações, estados e erros.
+- Testes automatizados e validação com tecnologias assistivas.
+- Recomendações e critérios das WCAG.
+
+Minha experiência pessoal contribui para identificar barreiras, investigar problemas e pensar em soluções sob a perspectiva de quem utiliza tecnologias assistivas diariamente.
+
+> **Acessibilidade não é um detalhe acrescentado no final. É parte da qualidade de engenharia de um produto digital.**
+
+---
+
+## 🛠️ Tecnologias e competências em desenvolvimento
+
+### Inteligência Artificial e automação
+
+- IA aplicada.
+- Agentes inteligentes.
+- Integração de ferramentas.
+- Automação de processos.
+
+### Desenvolvimento Web
+
+- HTML5.
+- CSS3.
+- JavaScript.
+- Desenvolvimento Full Stack.
+- Arquitetura de aplicações.
+
+### Testes e qualidade
+
+- Playwright.
+- Testes E2E.
+- Axe.
+- GitHub Actions.
+- Integração e entrega contínuas (CI/CD).
+- Investigação e correção de falhas.
 
 ### Acessibilidade
-- NVDA
-- leitores de tela
-- navegação por teclado
-- WCAG
-- HTML semântico
 
-### Engenharia
-- Git
-- GitHub
-- debugging
-- documentação
-- resolução de problemas
+- NVDA.
+- HTML semântico.
+- Navegação por teclado.
+- WCAG.
+- Testes com tecnologias assistivas.
+
+### Engenharia e colaboração
+
+- Git e GitHub.
+- Organização de repositórios.
+- Documentação técnica.
+- Resolução de problemas.
+- Aprendizado contínuo.
+- Comunicação e colaboração.
 
 ---
 
-## 🎓 Formação
+## 🎓 Formação acadêmica e desenvolvimento profissional
 
 **Tecnólogo em Inteligência Artificial — Gran Faculdade**
 
-**Formação em Desenvolvimento Full Stack — DevClub**
+Graduação em andamento, com foco em fundamentos e aplicações de inteligência artificial.
+
+**Desenvolvimento Full Stack — DevClub**
+
+Formação técnica em desenvolvimento web, programação e construção de aplicações.
+
+**DIO Campus Expert — Turma 17**
+
+Participação em programa de mentorias e desenvolvimento profissional, com ênfase em posicionamento de carreira, portfólio, networking, comunidade e competências comportamentais.
+
+---
+
+## 🧠 Minha mentalidade de aprendizado
+
+Acredito que aprender tecnologia exige mais do que memorizar comandos ou reproduzir soluções prontas.
+
+Meu processo de desenvolvimento envolve compreender o problema, investigar possibilidades, experimentar, analisar falhas e aprimorar resultados.
+
+**Aprender → Experimentar → Errar → Investigar → Corrigir → Evoluir.**
+
+Valorizo a curiosidade, a autonomia, o pensamento crítico e a capacidade de reconhecer quando uma abordagem precisa ser revista.
+
+Também acredito que compartilhar conhecimentos e aprender com profissionais mais experientes acelera o desenvolvimento individual e fortalece a comunidade tecnológica.
+
+**Não busco apenas fazer uma aplicação funcionar. Busco compreender seu funcionamento e encontrar maneiras de torná-la melhor.**
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Quero atuar em projetos onde eu possa combinar:
+Meu objetivo é contribuir com equipes e projetos que utilizem tecnologia para resolver problemas reais, combinando:
 
-**Inteligência Artificial + desenvolvimento + acessibilidade + resolução de problemas.**
+**Inteligência Artificial + Desenvolvimento de Software + Acessibilidade Digital + Qualidade de Engenharia.**
 
-Tenho interesse especial em equipes que valorizem qualidade de software, aprendizado contínuo, inclusão e construção de produtos que realmente possam ser utilizados pelas pessoas.
+Tenho interesse em ambientes que valorizem inovação, colaboração, responsabilidade, aprendizado contínuo e diversidade de perspectivas.
+
+Quero contribuir não apenas com competências técnicas, mas também com pensamento analítico, comunicação, capacidade de adaptação e uma visão prática sobre inclusão digital.
+
+Acredito que equipes diversas, com diferentes experiências e formas de compreender o mundo, têm condições de desenvolver soluções mais completas e relevantes.
 
 ---
 
-## 🤝 Vamos conversar
+## 🤝 Vamos nos conectar
 
-Gosto de trocar conhecimento com pessoas que trabalham ou estudam:
+Gosto de compartilhar conhecimentos e trocar experiências sobre inteligência artificial, desenvolvimento de software, automação, acessibilidade, tecnologias assistivas e inovação.
 
-- Inteligência Artificial;
-- desenvolvimento de software;
-- acessibilidade;
-- automação;
-- tecnologia assistiva;
-- produtos digitais.
+Estou aberto a conexões com desenvolvedores, profissionais de tecnologia, recrutadores, comunidades e pessoas interessadas em construir produtos digitais melhores.
 
-Se esses temas também fazem parte do seu trabalho ou dos seus interesses, fique à vontade para entrar em contato.
+**Conhecimento compartilhado fortalece pessoas, equipes e comunidades.**
 
 ---
 
@@ -236,6 +244,4 @@ Se esses temas também fazem parte do seu trabalho ou dos seus interesses, fique
 > **A tecnologia pode mudar a forma como enxergamos o mundo.  
 > No meu caso, ela também me ensinou que não precisamos enxergá-lo da mesma maneira para construir algo nele.**
 
----
-
-### 🚀 Sempre aprendendo. Sempre experimentando. Sempre construindo.
+**Sempre aprendendo. Sempre experimentando. Sempre construindo.**
