@@ -4,7 +4,7 @@
 
 > **Construo tecnologia com curiosidade, lógica e acessibilidade em primeiro lugar.**
 
-Sou estudante de **Inteligência Artificial** e desenvolvedor em formação, com interesse em **desenvolvimento web, automação, acessibilidade digital e produtos apoiados por IA**.
+Sou **especialista em Inteligência Artificial** e desenvolvedor em formação, com interesse em **desenvolvimento web, automação, acessibilidade digital e produtos apoiados por IA**.
 
 Tenho deficiência visual e utilizo o **NVDA** diariamente. Isso me fez desenvolver uma perspectiva diferente sobre tecnologia: navego interfaces principalmente por **teclado, sons, estrutura, semântica e lógica**.
 
