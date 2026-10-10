@@ -99,8 +99,6 @@ A convivência com uma **comunidade de estudantes que também estão construindo
 
 Essa experiência fortaleceu uma convicção: **conhecer tecnologias é essencial, mas saber comunicar, colaborar, aprender e gerar valor para pessoas é o que transforma conhecimento técnico em impacto profissional.**
 
-[Conheça o programa DIO Campus Expert](https://pages.dio.me/campus-expert)
-
 ---
 
 ## 🤖 Inteligência Artificial
