@@ -82,6 +82,27 @@ Em muitos dos meus projetos, são justamente eles que me obrigam a compreender m
 
 ---
 
+## 🎓 DIO Campus Expert 17 | Desenvolvimento profissional e comunidade
+
+Participei da **17ª turma do DIO Campus Expert**, uma experiência que ampliou minha visão sobre carreira em tecnologia e reforçou a importância de desenvolver **habilidades comportamentais (soft skills)** junto às competências técnicas.
+
+Nas mentorias com **profissionais do Santander, especialistas com experiência internacional e outros nomes do mercado de tecnologia**, conheci trajetórias reais, desafios, erros e aprendizados que ajudam a compreender melhor o ambiente corporativo.
+
+Entre os aprendizados que levo para minha jornada estão:
+
+- **Portfólio e marca profissional:** apresentar projetos com clareza, contexto e propósito, mostrando não só o resultado, mas também o processo de evolução.
+- **Comunicação e networking:** trocar experiências, ouvir diferentes perspectivas e construir conexões profissionais genuínas.
+- **Colaboração e inteligência interpessoal:** reconhecer o valor de aprender com outras pessoas, compartilhar conhecimento e acolher feedbacks.
+- **Protagonismo e aprendizado contínuo:** assumir responsabilidade pelo próprio desenvolvimento e transformar erros em oportunidades de melhoria.
+
+A convivência com uma **comunidade de estudantes que também estão construindo seu espaço no mercado tech** foi uma das partes mais valiosas dessa jornada.
+
+Essa experiência fortaleceu uma convicção: **conhecer tecnologias é essencial, mas saber comunicar, colaborar, aprender e gerar valor para pessoas é o que transforma conhecimento técnico em impacto profissional.**
+
+[Conheça o programa DIO Campus Expert](https://pages.dio.me/campus-expert)
+
+---
+
 ## 🤖 Inteligência Artificial
 
 Minha formação acadêmica está direcionada para **Inteligência Artificial**.
